@@ -1,0 +1,6 @@
+1. you ghave to change the priority queue to pick the biggest edge instead of the smallest   
+2. a minimum spanning tree connects all the cities with the lowest total cost. The TSP finds shortest route that visits every city and comes back to the starting point 
+3. Seattle 0 678 - - San Francisco 678 0 386 348 - Riverside - 386 0 50 307 Los Angeles - 348 50 0 357 Phoenix - -307 357 0
+4.with priority queue it is O(E log v). without priority queue is O(v^2)
+5. jarnik algorithm is greedy b/c it picks the cheapest edge that adds a vertex to the tree
+6. RSA is a cryptography algorithm that encrypts information. CC created something similar first. Rivest Shamir and Adleman made their  algorithms public first so they received credit
